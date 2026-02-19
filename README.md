@@ -11,16 +11,12 @@
 - X → dígito correto na posição errada
 - _ → dígito inexistente
 
-## Conceitos Aplicados
+## Conceitos Aplicados e Aprendizados
 - Estruturas condicionais (if/else)
 - Estruturas de repetição (for, do-while)
 - Manipulação de dígitos com divisão inteira (/) e módulo (%)
 - Modularização com funções
 - Validação de entrada do usuário
 - Geração de números aleatórios
-
-## Aprendizados
 - Pensamento algorítmico
-- Organização modular
-- Manipulação matemática de números inteiros
 - Tratamento de entradas inválidas
